@@ -15,7 +15,7 @@
     "authentication",
     "secure",
     "oauth2",
-    "oauth"
+    "oauthgit@github.com:globehealer/j-toker.git"
   ],
   "author": {
     "name": "Lynn Dylan Hurley",
@@ -31,7 +31,7 @@
   "dependencies": {
     "jquery": ">1.11.2",
     "jquery-deparam": "^0.1.0",
-    "jquery.cookie": "^1.4.1",
+    "js-cookie": "^3.0.0-rc.1",
     "pubsub-js": "^1.5.2"
   },
   "devDependencies": {
