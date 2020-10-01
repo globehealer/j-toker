@@ -7,7 +7,7 @@
       'jquery',
       'jquery-deparam',
       'pubsub-js',
-      'jquery.cookie'
+      'js-cookie'
     ], factory);
   } else if (typeof exports === 'object') {
     // Node/CommonJS
@@ -15,7 +15,7 @@
       require('jquery'),
       require('jquery-deparam'),
       require('pubsub-js'),
-      require('jquery.cookie')
+      require('js-cookie')
     );
   } else {
     // Browser globals
